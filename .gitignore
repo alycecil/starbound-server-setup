@@ -21,3 +21,12 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/compiler.xml
+.idea/.name
+y.iml
+target/maven-archiver/pom.properties
+target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
